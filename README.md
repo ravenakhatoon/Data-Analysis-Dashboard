@@ -25,3 +25,12 @@ How many patients visit the ER each day?
 What are the trends – are there specific days or seasons when patient visits increase?
 
 DASHBORD INTERACTION <a href="https://github.com/ravenakhatoon/Data-Analysis-Dashboard/blob/main/hospital%20monthly%20report.png">dashbord interaction</a>
+## Process
+Handle missing values (e.g., missing wait times or satisfaction scores).
+
+Remove duplicates and correct inconsistent data entries.
+
+Format date/time columns for analysis.
+## Dashbord
+<img width="1520" height="687" alt="hospital monthly report" src="https://github.com/user-attachments/assets/4b8c11e8-2ea4-4fd4-af4a-a300f25ed26f" />
+
