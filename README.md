@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-This project focuses on building an interactive excel dashboard to analyze and monitor Hospital Emergency Room (ER) performance. The dashboard provides actionable insights to improve efficiency, reduce waiting times, and support better decision-making for hospital stakeholders.
+#Hospital Emergency Room Dashbord(intrective Dashbord creating using MS Excel)
+##Project Objectives
+To monitor and analyze patient inflow, outflow, and waiting times in the Emergency Room
+To provide interactive dashboards that help stakeholders make data-driven decisions
+To improve overall hospital service quality by reducing delays and enhancing patient care
