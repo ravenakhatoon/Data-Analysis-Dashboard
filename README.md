@@ -33,5 +33,6 @@ Remove duplicates and correct inconsistent data entries.
 Format date/time columns for analysis.
 ## Dashbord
 <img width="1520" height="687" alt="hospital monthly report" src="https://github.com/user-attachments/assets/4b8c11e8-2ea4-4fd4-af4a-a300f25ed26f" />
+
 ## Conclusion:
 This Hospital Emergency Room Analysis Dashboard provides a comprehensive view of ER operations, helping stakeholders monitor performance, optimize resources, and make data-driven decisions. By visualizing patient flow, waiting times, and satisfaction scores, the dashboard supports better hospital
