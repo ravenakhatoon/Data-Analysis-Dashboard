@@ -23,3 +23,5 @@ On which days do patients wait longer, and how can we improve efficiency?
 How many patients visit the ER each day?
 
 What are the trends – are there specific days or seasons when patient visits increase?
+
+DASHBORD INTERACTION 
