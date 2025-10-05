@@ -24,4 +24,4 @@ How many patients visit the ER each day?
 
 What are the trends – are there specific days or seasons when patient visits increase?
 
-DASHBORD INTERACTION 
+DASHBORD INTERACTION <a href="https://github.com/ravenakhatoon/Data-Analysis-Dashboard/blob/main/hospital%20monthly%20report.png">dashbord interaction</a>
